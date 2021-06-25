@@ -1,0 +1,7 @@
+F:\Trainings\C#\DanskeCSharp\FirstNetConsole\bin\Debug\FirstNetConsole.exe.config
+F:\Trainings\C#\DanskeCSharp\FirstNetConsole\bin\Debug\FirstNetConsole.exe
+F:\Trainings\C#\DanskeCSharp\FirstNetConsole\bin\Debug\FirstNetConsole.pdb
+F:\Trainings\C#\DanskeCSharp\FirstNetConsole\obj\Debug\FirstNetConsole.csprojAssemblyReference.cache
+F:\Trainings\C#\DanskeCSharp\FirstNetConsole\obj\Debug\FirstNetConsole.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\FirstNetConsole\obj\Debug\FirstNetConsole.exe
+F:\Trainings\C#\DanskeCSharp\FirstNetConsole\obj\Debug\FirstNetConsole.pdb

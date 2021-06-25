@@ -1,0 +1,13 @@
+F:\Trainings\C#\DanskeCSharp\GenericsApp\bin\Debug\netcoreapp3.1\GenericsApp.exe
+F:\Trainings\C#\DanskeCSharp\GenericsApp\bin\Debug\netcoreapp3.1\GenericsApp.deps.json
+F:\Trainings\C#\DanskeCSharp\GenericsApp\bin\Debug\netcoreapp3.1\GenericsApp.runtimeconfig.json
+F:\Trainings\C#\DanskeCSharp\GenericsApp\bin\Debug\netcoreapp3.1\GenericsApp.runtimeconfig.dev.json
+F:\Trainings\C#\DanskeCSharp\GenericsApp\bin\Debug\netcoreapp3.1\GenericsApp.dll
+F:\Trainings\C#\DanskeCSharp\GenericsApp\bin\Debug\netcoreapp3.1\GenericsApp.pdb
+F:\Trainings\C#\DanskeCSharp\GenericsApp\obj\Debug\netcoreapp3.1\GenericsApp.AssemblyInfoInputs.cache
+F:\Trainings\C#\DanskeCSharp\GenericsApp\obj\Debug\netcoreapp3.1\GenericsApp.AssemblyInfo.cs
+F:\Trainings\C#\DanskeCSharp\GenericsApp\obj\Debug\netcoreapp3.1\GenericsApp.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\GenericsApp\obj\Debug\netcoreapp3.1\GenericsApp.dll
+F:\Trainings\C#\DanskeCSharp\GenericsApp\obj\Debug\netcoreapp3.1\GenericsApp.pdb
+F:\Trainings\C#\DanskeCSharp\GenericsApp\obj\Debug\netcoreapp3.1\GenericsApp.genruntimeconfig.cache
+F:\Trainings\C#\DanskeCSharp\GenericsApp\obj\Debug\netcoreapp3.1\GenericsApp.csprojAssemblyReference.cache

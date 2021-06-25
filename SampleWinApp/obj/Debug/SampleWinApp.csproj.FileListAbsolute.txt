@@ -1,0 +1,10 @@
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\bin\Debug\SampleWinApp.exe.config
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\bin\Debug\SampleWinApp.exe
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\bin\Debug\SampleWinApp.pdb
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\obj\Debug\SampleWinApp.csprojAssemblyReference.cache
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\obj\Debug\SampleWinApp.Form1.resources
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\obj\Debug\SampleWinApp.Properties.Resources.resources
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\obj\Debug\SampleWinApp.csproj.GenerateResource.cache
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\obj\Debug\SampleWinApp.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\obj\Debug\SampleWinApp.exe
+F:\Trainings\C#\DanskeCSharp\SampleWinApp\obj\Debug\SampleWinApp.pdb

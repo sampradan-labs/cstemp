@@ -1,0 +1,9 @@
+F:\Trainings\C#\DanskeCSharp\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+F:\Trainings\C#\DanskeCSharp\BL\bin\Debug\netcoreapp3.1\BL.dll
+F:\Trainings\C#\DanskeCSharp\BL\bin\Debug\netcoreapp3.1\BL.pdb
+F:\Trainings\C#\DanskeCSharp\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+F:\Trainings\C#\DanskeCSharp\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+F:\Trainings\C#\DanskeCSharp\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\BL\obj\Debug\netcoreapp3.1\BL.dll
+F:\Trainings\C#\DanskeCSharp\BL\obj\Debug\netcoreapp3.1\BL.pdb
+F:\Trainings\C#\DanskeCSharp\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache

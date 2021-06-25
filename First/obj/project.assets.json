@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.NETCore.ILAsm/5.0.0": {
+        "type": "package"
+      },
+      "Microsoft.NETCore.ILDAsm/5.0.0": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.NETCore.ILAsm/5.0.0": {
+      "sha512": "mtBQQbc6agAucAMDnpCgjzAQW3i/vFiF5cCNRaSCHWK7L78EPQLYMT8U6uUgt/Eagf372GEJqHOk+EXWDEJBlg==",
+      "type": "package",
+      "path": "microsoft.netcore.ilasm/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "microsoft.netcore.ilasm.5.0.0.nupkg.sha512",
+        "microsoft.netcore.ilasm.nuspec",
+        "runtime.json",
+        "runtimes/native/ilasm.exe",
+        "version.txt"
+      ]
+    },
+    "Microsoft.NETCore.ILDAsm/5.0.0": {
+      "sha512": "U9JiWV1csm5HrJluxsfRdScpnO8C4iQSPzkG8b4I0aPfJfTSLd+3QJZb/U7WHAlyIj6CTKlSkMtZtIVialhW+Q==",
+      "type": "package",
+      "path": "microsoft.netcore.ildasm/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "microsoft.netcore.ildasm.5.0.0.nupkg.sha512",
+        "microsoft.netcore.ildasm.nuspec",
+        "runtime.json",
+        "runtimes/native/ildasm.exe",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.NETCore.ILAsm >= 5.0.0",
+      "Microsoft.NETCore.ILDAsm >= 5.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sampr\\.nuget\\packages\\": {},
+    "E:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\Trainings\\C#\\DanskeCSharp\\First\\First.csproj",
+      "projectName": "First",
+      "projectPath": "F:\\Trainings\\C#\\DanskeCSharp\\First\\First.csproj",
+      "packagesPath": "C:\\Users\\sampr\\.nuget\\packages\\",
+      "outputPath": "F:\\Trainings\\C#\\DanskeCSharp\\First\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sampr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.NETCore.ILAsm": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          },
+          "Microsoft.NETCore.ILDAsm": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

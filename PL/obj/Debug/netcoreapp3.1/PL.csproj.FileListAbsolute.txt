@@ -1,0 +1,16 @@
+F:\Trainings\C#\DanskeCSharp\PL\bin\Debug\netcoreapp3.1\PL.exe
+F:\Trainings\C#\DanskeCSharp\PL\bin\Debug\netcoreapp3.1\PL.deps.json
+F:\Trainings\C#\DanskeCSharp\PL\bin\Debug\netcoreapp3.1\PL.runtimeconfig.json
+F:\Trainings\C#\DanskeCSharp\PL\bin\Debug\netcoreapp3.1\PL.runtimeconfig.dev.json
+F:\Trainings\C#\DanskeCSharp\PL\bin\Debug\netcoreapp3.1\PL.dll
+F:\Trainings\C#\DanskeCSharp\PL\bin\Debug\netcoreapp3.1\PL.pdb
+F:\Trainings\C#\DanskeCSharp\PL\obj\Debug\netcoreapp3.1\PL.csprojAssemblyReference.cache
+F:\Trainings\C#\DanskeCSharp\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfoInputs.cache
+F:\Trainings\C#\DanskeCSharp\PL\obj\Debug\netcoreapp3.1\PL.AssemblyInfo.cs
+F:\Trainings\C#\DanskeCSharp\PL\obj\Debug\netcoreapp3.1\PL.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\PL\obj\Debug\netcoreapp3.1\PL.dll
+F:\Trainings\C#\DanskeCSharp\PL\obj\Debug\netcoreapp3.1\PL.pdb
+F:\Trainings\C#\DanskeCSharp\PL\obj\Debug\netcoreapp3.1\PL.genruntimeconfig.cache
+F:\Trainings\C#\DanskeCSharp\PL\bin\Debug\netcoreapp3.1\BL.dll
+F:\Trainings\C#\DanskeCSharp\PL\bin\Debug\netcoreapp3.1\BL.pdb
+F:\Trainings\C#\DanskeCSharp\PL\obj\Debug\netcoreapp3.1\PL.csproj.CopyComplete

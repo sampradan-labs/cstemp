@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "First/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.ILAsm": "5.0.0",
+          "Microsoft.NETCore.ILDAsm": "5.0.0"
+        },
+        "runtime": {
+          "First.dll": {}
+        }
+      },
+      "Microsoft.NETCore.ILAsm/5.0.0": {},
+      "Microsoft.NETCore.ILDAsm/5.0.0": {}
+    }
+  },
+  "libraries": {
+    "First/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.ILAsm/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mtBQQbc6agAucAMDnpCgjzAQW3i/vFiF5cCNRaSCHWK7L78EPQLYMT8U6uUgt/Eagf372GEJqHOk+EXWDEJBlg==",
+      "path": "microsoft.netcore.ilasm/5.0.0",
+      "hashPath": "microsoft.netcore.ilasm.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.ILDAsm/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U9JiWV1csm5HrJluxsfRdScpnO8C4iQSPzkG8b4I0aPfJfTSLd+3QJZb/U7WHAlyIj6CTKlSkMtZtIVialhW+Q==",
+      "path": "microsoft.netcore.ildasm/5.0.0",
+      "hashPath": "microsoft.netcore.ildasm.5.0.0.nupkg.sha512"
+    }
+  }
+}

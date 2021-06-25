@@ -1,0 +1,13 @@
+F:\Trainings\C#\DanskeCSharp\First\bin\Debug\netcoreapp3.1\First.exe
+F:\Trainings\C#\DanskeCSharp\First\bin\Debug\netcoreapp3.1\First.deps.json
+F:\Trainings\C#\DanskeCSharp\First\bin\Debug\netcoreapp3.1\First.runtimeconfig.json
+F:\Trainings\C#\DanskeCSharp\First\bin\Debug\netcoreapp3.1\First.runtimeconfig.dev.json
+F:\Trainings\C#\DanskeCSharp\First\bin\Debug\netcoreapp3.1\First.dll
+F:\Trainings\C#\DanskeCSharp\First\bin\Debug\netcoreapp3.1\First.pdb
+F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.AssemblyInfoInputs.cache
+F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.AssemblyInfo.cs
+F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.csproj.CoreCompileInputs.cache
+F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.dll
+F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.pdb
+F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.genruntimeconfig.cache
+F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.csproj.AssemblyReference.cache
