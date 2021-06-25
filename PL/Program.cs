@@ -1,5 +1,6 @@
 ﻿using BL;
 using System;
+using System.IO;
 
 namespace PL
 {
@@ -37,6 +38,9 @@ namespace PL
 
             Employee emp = new Employee();
             emp.TryWithAccessors();
+
+            //Read from IO
+            Streams();
 
             ///let the console output stay visible
             ///
@@ -82,5 +86,19 @@ namespace PL
             
 
         }
+    
+        private static void Streams()
+        {
+            StreamReader reader = new StreamReader(@"F:\sample.txt");
+            Console.WriteLine("Printing contents of a file");
+            Console.WriteLine(reader.ReadToEnd());
+            reader.Close();
+
+            StreamWriter writer = new StreamWriter(@"F:\sample.txt");
+            writer.WriteLine(true);
+            writer.Close();
+            
+        }
+        
     }
 }

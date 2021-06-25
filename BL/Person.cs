@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Diagnostics;
 using System.Text;
 
@@ -36,9 +37,15 @@ namespace BL
         //}
 
         //Properties
+        [Key]
+        [Required]
         public string Aadhaar { get; set; }
+
+        [Range(18,99)]
         public int Age { get; set; }
         public string Name { get; set; }
+
+        [EmailAddress]
         public string Email { get; set; }
         public Gender PersonGender { get; set; }
 
@@ -79,6 +86,62 @@ namespace BL
             }
             return true;
         }
+
+        static List<Person> _people = new List<Person>();   //stays in memory for application's lifetime
+        public List<Person> GetAll()
+        {
+            if (Person._people.Count == 0)
+            {
+                Person._people.Add(new Person() { Name = "Meena", Age = 25, Email = "meena@danske.com" });
+                Person._people.Add(new Person() { Name = "Teena", Age = 27, Email = "teena@danske.com" });
+                Person._people.Add(new Person() { Name = "Sheena", Age = 30, Email = "sheena@danske.com" });
+            }
+            
+            return _people;
+        }
+
+        public Person Find(string name)
+        {
+            //foreach (var item in Person._people)
+            //{
+            //    if (item.Name.ToLower() == name.ToLower())
+            //    {
+            //        return item;
+            //    }
+            //}
+
+            return Person._people.Find((p) => p.Name.ToLower() == name.ToLower());
+
+        }
+
+        public bool Add(Person p)
+        {
+            try
+            {
+                Person._people.Add(p);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Exception occurred: {0}", ex.Message);
+                return false;
+            }
+            return true;
+            
+        }
+
+        public Person Update(string nametobefound, Person p)
+        {
+            Person tobeupdated =Find(nametobefound);
+            tobeupdated.Age = p.Age;
+            tobeupdated.Email = p.Email;
+            tobeupdated.HasFace = p.HasFace;
+            tobeupdated.HasHands = p.HasHands;
+            tobeupdated.HasIQ = p.HasIQ;
+            tobeupdated.HasLegs = p.HasLegs;
+            tobeupdated.PersonGender = p.PersonGender;
+            return tobeupdated;
+        }
+
 
         //destructor
         ~Person()

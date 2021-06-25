@@ -10,4 +10,4 @@ F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.csproj.CoreComp
 F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.dll
 F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.pdb
 F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.genruntimeconfig.cache
-F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.csproj.AssemblyReference.cache
+F:\Trainings\C#\DanskeCSharp\First\obj\Debug\netcoreapp3.1\First.csprojAssemblyReference.cache

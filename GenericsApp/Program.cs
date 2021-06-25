@@ -7,6 +7,7 @@ namespace GenericsApp
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
             //Demo - Expandable Arrays -As ArrayList//
@@ -62,6 +63,17 @@ namespace GenericsApp
         {
             //PrimaryType<sub-Type> yourVariableName = new PrimaryType<sub-Type>()
             List<string> nameList = new List<string>();
+            Dictionary<int, string> d = new Dictionary<int, string>();
+            d.Add(1, "value");
+            SortedDictionary<int, string> sd = new SortedDictionary<int, string>();
+            sd.Add(10, "value");
+            sd.Add(1, "new value");
+
+            foreach (var item in sd)
+            {
+                Console.WriteLine("{0},{1}",item.Key, item.Value);
+            }
+
             nameList.Add("Eena");
             nameList.Add("Meena");
             nameList.Add("Teena");
