@@ -1,0 +1,119 @@
+
+-- LAB 1
+-- Print Employee Name, Department Id, Dpt Table Department ID, Employee table EmpId
+-- For Each record in Department
+-- All records of Dept table should be displayed with matching records of Employee table
+-- based on the DptId
+
+-- LAB 2
+-- Print Task Name, Employee Name, CompletedOn For all Employees
+-- Hint: Tables involved: Tasks, Employee, EmployeeTasks
+--FROM Tasks as T INNER JOIN EmployeeTasks as ET
+--					ON T.Id = ET.TaskId
+--				INNER JOIN Employee as E
+--					ON ET.EmpId = E.EmpId
+
+LAB 5
+Create a ProductDB
+Tables
+1. Product
+	Id (Pkey, INT, Identity=true)
+	Name
+	Cost
+	CategoryId (FKey, INT)
+	Brand
+2. Customer
+	Id (PKey, INT,Identity=true)
+	Name
+	Gender
+	Age
+3. Category
+	Id (PKey, INT, Identity=true)
+	Name
+4. Customer Orders
+	CustomerId 
+	ProductId 
+	OrderedOn
+=======================================
+QUERIES - Stored Procedures
+1. Get All Products
+2. Get Products for a Product Id
+3. Insert a Product
+4. Update a Product
+5. Delete a Product
+6. Insert a customer
+7. Get Customer orders
+8. Get All Customers who are Females
+9. Get Customer Name, Product Name for a customer with id=1
+
+FUNCTIONS
+10. Calculate total cost of Products bought by customers, group by CustomerId
+11. Get total orders between dates '2021-01-01' to '2021-02-01'
+
+=======================
+LAB 7: Write functions in C# using Ado.net for
+1. select dbo.fn_GetFullName(1001) :: ExecuteScalar
+2. select dbo.fn_GetIncrement(1001) :: ExecuteScalar
+3. select dbo.fn_GetTotalTasks(1001) :: ExecuteScalar
+4. select * from dbo.fn_GetEmpMgrs() :: ExecuteReader
+5. select * from dbo.vw_MaxEarningEmpPerDepartment :: ExecuteReader
+
+=======================
+LAB 8: CSS LAB 1: Create an html file which is a registration form.
+		  Name textbox, Age textbox type=number, Address textbox type=text, Email textbox type=email, Telephone textbox type=tel
+		  Add the Register button, with onclick event. Show as alert("Ramya is registered successfully")
+		  Add the Cancel button, with onclick event. Clear values of all textboxes
+		  Add css styles as Internal styles inside <style></style> for
+			- All textboxes
+			- All the buttons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
